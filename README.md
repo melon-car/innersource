@@ -2,7 +2,7 @@
 
 <p align="center">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
 
-- [Crafting discoverable repositories](discoverable/)
+- [Crafting discoverable a repositories](discoverable/)
 - [Useful ultla super templates](templates/)
 - [Measuring success](metrics/)
 - [Repository ownership](repo-ownership/)
