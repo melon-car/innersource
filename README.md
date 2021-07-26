@@ -4,6 +4,6 @@
 
 - [Crafting discoverable a repositories](discoverable/)
 - [Useful ultla super templates](templates/)
-- [Measuring success](metrics/)
+- [Measuring a success](metrics/)
 - [Repository ownership](repo-ownership/)
 - [Workflows](workflows/)
